@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
   
-###  Olá a todos, me chamo Cristiane e tenho 25 anos 👋  
+###  Olá a todos, me chamo Cristiane e tenho 25 anos 👋 👾 👽  
 <br> <strong>Atualmente estou cursando Engenharia de Software pela Estácio de Sá</strong>.<br>
  
 </p>
