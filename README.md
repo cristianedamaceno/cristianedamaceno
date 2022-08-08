@@ -7,7 +7,7 @@
 </p>
 <strong> 🌍  "Quanto mais eu sei, mais eu sou"  🧠</strong>
 
--  <p>📍  From Sao Paulo, Santo André </p>
+-  <p>📍  From Santo André, São Paulo</p>
 -  <p align="left">
    💌 Entre em contato comigo: ⤵️
  </p>
